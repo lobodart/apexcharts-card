@@ -32,7 +32,7 @@ export const stylesApex: CSSResultGroup = css`
   }
 
   #header {
-    padding: 8px 16px 0px;
+    padding: 16px 16px 0px;
     grid-area: header;
   }
   #header.floating {
